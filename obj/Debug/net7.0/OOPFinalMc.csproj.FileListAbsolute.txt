@@ -1,0 +1,15 @@
+C:\Users\cobam\OOPFinalMc\obj\Debug\net7.0\OOPFinalMc.csproj.AssemblyReference.cache
+C:\Users\cobam\OOPFinalMc\obj\Debug\net7.0\OOPFinalMc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cobam\OOPFinalMc\obj\Debug\net7.0\OOPFinalMc.AssemblyInfoInputs.cache
+C:\Users\cobam\OOPFinalMc\obj\Debug\net7.0\OOPFinalMc.AssemblyInfo.cs
+C:\Users\cobam\OOPFinalMc\obj\Debug\net7.0\OOPFinalMc.csproj.CoreCompileInputs.cache
+C:\Users\cobam\OOPFinalMc\bin\Debug\net7.0\OOPFinalMc.exe
+C:\Users\cobam\OOPFinalMc\bin\Debug\net7.0\OOPFinalMc.deps.json
+C:\Users\cobam\OOPFinalMc\bin\Debug\net7.0\OOPFinalMc.runtimeconfig.json
+C:\Users\cobam\OOPFinalMc\bin\Debug\net7.0\OOPFinalMc.dll
+C:\Users\cobam\OOPFinalMc\bin\Debug\net7.0\OOPFinalMc.pdb
+C:\Users\cobam\OOPFinalMc\obj\Debug\net7.0\OOPFinalMc.dll
+C:\Users\cobam\OOPFinalMc\obj\Debug\net7.0\refint\OOPFinalMc.dll
+C:\Users\cobam\OOPFinalMc\obj\Debug\net7.0\OOPFinalMc.pdb
+C:\Users\cobam\OOPFinalMc\obj\Debug\net7.0\OOPFinalMc.genruntimeconfig.cache
+C:\Users\cobam\OOPFinalMc\obj\Debug\net7.0\ref\OOPFinalMc.dll
